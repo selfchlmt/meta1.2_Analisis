@@ -1,0 +1,4 @@
+org\meta1\crud\Gui.class
+module-info.class
+org\meta1\meta1_2\HelloApplication.class
+org\meta1\meta1_2\HelloController.class
